@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "270983235058",
+    "firebase_url": "https://agilemed-app.firebaseio.com",
+    "project_id": "agilemed-app",
+    "storage_bucket": "agilemed-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270983235058:android:2d04c26b147f591430d76b",
+        "android_client_info": {
+          "package_name": "com.example.agilemed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270983235058-8h18b7e4koiu42fmt8njf1pjmcce9tsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEAp8Li9KAVVONNT0ivdlzBSJz1-CT8TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270983235058-8h18b7e4koiu42fmt8njf1pjmcce9tsu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270983235058-dtj3r8c8pf7pem2bq64vl0f5vu5bro6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agilemed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270983235058:android:e4e7122e3067f17a30d76b",
+        "android_client_info": {
+          "package_name": "com.example.newagileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270983235058-8h18b7e4koiu42fmt8njf1pjmcce9tsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEAp8Li9KAVVONNT0ivdlzBSJz1-CT8TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270983235058-8h18b7e4koiu42fmt8njf1pjmcce9tsu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270983235058-dtj3r8c8pf7pem2bq64vl0f5vu5bro6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agilemed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
